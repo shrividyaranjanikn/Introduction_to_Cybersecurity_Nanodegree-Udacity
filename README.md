@@ -6,4 +6,3 @@ List of projects:
 2. Monitoring and Securing DFI environment
 3. Navigating a Cybersecurity Incident 
 4. Securing a business network
-5. project 5
